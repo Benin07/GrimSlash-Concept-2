@@ -1,0 +1,1 @@
+Optional .wav: victory.wav (loops=0, plays on Victory). Any music hook name works with audio.play_music(name).

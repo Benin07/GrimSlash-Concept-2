@@ -1,0 +1,2 @@
+Optional .wav files named after hooks: slash.wav hit.wav dash.wav boss_hurt.wav boss_death.wav
+Missing files are silently ignored (no crash).

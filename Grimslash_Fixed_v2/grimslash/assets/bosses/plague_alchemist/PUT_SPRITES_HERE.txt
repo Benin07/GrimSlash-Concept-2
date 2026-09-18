@@ -1,0 +1,2 @@
+Drop 64x64 horizontal strips here named:
+idle.png (6f) run.png (8f) throw.png (5f) cast.png (4f) hurt.png (3f) death.png (10f)

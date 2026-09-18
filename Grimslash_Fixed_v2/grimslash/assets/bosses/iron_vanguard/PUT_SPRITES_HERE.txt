@@ -1,0 +1,3 @@
+Drop 128x128 horizontal strips here named:
+idle.png (6f) walk.png (8f) attack_1.png (7f) attack_2.png (9f) hurt.png (3f) death.png (12f)
+Missing files fall back to colored placeholder blocks.
